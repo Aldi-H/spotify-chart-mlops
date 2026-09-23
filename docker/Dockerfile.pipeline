@@ -1,0 +1,11 @@
+FROM python:3.12-slim
+
+WORKDIR /app
+
+COPY requirements.txt .
+RUN pip install --no-cache-dir -r requirements.txt
+
+COPY src/ ./src/
+
+# For now, just run data ingestion. You'll change this later.
+CMD ["python", "-m", "src.data_ingestion"]

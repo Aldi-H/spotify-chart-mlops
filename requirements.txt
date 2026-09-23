@@ -1,0 +1,15 @@
+# Database
+psycopg2-binary==2.9.10
+
+# ML Experiment Tracking
+mlflow==3.16.0
+
+# Monitoring
+prometheus-client==0.22.1
+
+# ML / Data
+scikit-learn==1.9.0
+pandas==2.3.0
+
+# Env
+python-dotenv==1.2.3
