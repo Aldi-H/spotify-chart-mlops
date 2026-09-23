@@ -1,2 +1,5 @@
 # Datasets
 data/raw/*
+
+# Keep directory structure
+!data/raw/.gitkeep
