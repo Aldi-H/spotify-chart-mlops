@@ -1,15 +1,57 @@
-# Database
-psycopg2-binary==2.9.10
-
-# ML Experiment Tracking
-mlflow==3.16.0
-
-# Monitoring
-prometheus-client==0.22.1
-
-# ML / Data
-scikit-learn==1.9.0
-pandas==2.3.0
-
-# Env
-python-dotenv==1.2.3
+asttokens @ file:///home/conda/feedstock_root/build_artifacts/asttokens_1783975656336/work
+comm @ file:///home/task_176311912503377/conda-bld/comm_1763119154572/work
+connectorx==0.4.6
+contourpy==1.4.0
+cycler==0.12.1
+debugpy @ file:///home/task_TUZSXmTIScmnZ_0/croot/debugpy_1783354461876/work
+et_xmlfile @ file:///croot/et_xmlfile_1756462486635/work
+executing @ file:///home/task_178782611878373/croot/executing_1787826146109/work
+fonttools==4.66.0
+ipykernel @ file:///home/task_L82iGAO4QHWjr_0/croot/ipykernel_1785763737393/work
+ipython @ file:///home/task_179015607273769/croot/ipython_1790156101555/work
+ipython_pygments_lexers @ file:///croot/ipython_pygments_lexers_1744753235686/work
+jedi @ file:///home/task_177868175632619/croot/jedi_1778681783836/work
+joblib @ file:///home/task_176786732698665/croot/joblib_1767868073384/work
+jupyter_client @ file:///home/task_178885793378492/croot/jupyter_client_1788857979612/work
+jupyter_core @ file:///home/task_176458820445830/conda-bld/jupyter_core_1764588284850/work
+kiwisolver==1.5.1
+matplotlib==3.11.2
+matplotlib-inline @ file:///home/task_QJaBS3YUQhWph_0/croot/matplotlib-inline_1784795225362/work
+mkl-service==2.7.2
+mkl_fft @ file:///home/task_177730044782489/croot/mkl_fft_1777300478882/work
+mkl_random @ file:///home/task_178236941593284/croot/mkl_random_1782369457867/work
+narwhals @ file:///home/task_fUMynL5AROyR6_0/croot/narwhals_1783944047520/work
+nest-asyncio2 @ file:///home/task_RPJhE-7LQOmJZ_0/croot/nest-asyncio2_1785322380024/work
+numpy @ file:///home/task_178764989985363/croot/numpy_and_numpy_base_1787649946861/work/dist/numpy-2.5.2-cp312-cp312-linux_x86_64.whl#sha256=1d60d3bf27af6bdbbabdb70e274f54907c903e24c27377ef835ef31f8d6a706f
+openpyxl @ file:///croot/openpyxl_1736366913861/work
+packaging==26.3
+pandas @ file:///home/task_aHjS9NSuSm-gL_0/croot/pandas_1785760205734/work
+parso @ file:///home/task_177867366777508/croot/parso_1778674007665/work
+pexpect @ file:///home/task_176253513024890/conda-bld/pexpect_1762535937809/work
+pillow==12.3.0
+platformdirs @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_platformdirs_1788271419/work
+polars==1.44.2
+polars-runtime-32==1.44.2
+prompt_toolkit @ file:///home/task_AWb5fkZvTpa-m_0/croot/prompt-toolkit-split_1785325183325/work
+psutil @ file:///home/task_IqIifCH0Sg2D2_0/croot/psutil_1784875234965/work
+psycopg2-binary==2.9.13
+ptyprocess @ file:///opt/miniconda3/conda-bld/ptyprocess_1762424170819/work/dist/ptyprocess-0.7.0-py2.py3-none-any.whl#sha256=3470be7f810474c8a2ecfcd6e02acc6aea8483ab595417fa4e336362a349933e
+pure_eval @ file:///home/task_175706684826776/conda-bld/pure_eval_1757067049051/work
+pyarrow==25.0.1
+Pygments @ file:///home/task_179034397778376/croot/pygments_1790344006540/work
+pyparsing==3.3.3
+python-dateutil @ file:///croot/python-dateutil_1716495738603/work
+pyzmq @ file:///home/task_178939049706562/croot/pyzmq_1789390542090/work
+scikit-learn @ file:///home/task_178956941937455/croot/scikit-learn_1789569448455/work
+scipy @ file:///home/task_178904585279660/croot/scipy_1789045890544/work/dist/scipy-1.18.1-cp312-cp312-linux_x86_64.whl#sha256=f78028b4ba171b3b4e52bd04e81344234c88551c4aa97f6b9cd62fa29ba5ad32
+seaborn==0.13.2
+setuptools==83.0.0
+six @ file:///croot/six_1744271502820/work
+stack_data @ file:///home/task_175706679004827/conda-bld/stack_data_1757067036633/work
+threadpoolctl @ file:///home/task_176436168230481/conda-bld/threadpoolctl_1764361729106/work
+tornado @ file:///home/task_178853358369265/croot/tornado_1788533610532/work
+traitlets @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_traitlets_1785761789/work
+typing_extensions @ file:///home/task_YjVu0DeETVqbM_0/croot/typing_extensions_1784100990097/work
+wcwidth @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_wcwidth_1788174996/work
+wheel==0.47.0
+wrapt @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_wrapt_1789161059/work
